@@ -5,7 +5,7 @@ A physical rhythm game for CircuitPython devices that uses a real IMU (accelerom
 ## 🎥 Demo
 Watch the demo here: [Rhythm Ruler Demo](https://www.youtube.com/shorts/fOXzGWSuUTA)
 
-
+## Content
 This repository contains the CircuitPython code used to:
 - play rhythmic patterns,
 - detect real shakes from an IMU (ICM20948 in the reference code),
