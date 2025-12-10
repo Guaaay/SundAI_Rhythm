@@ -2,6 +2,10 @@
 
 A physical rhythm game for CircuitPython devices that uses a real IMU (accelerometer + gyro) to detect baton/shake hits and grades the player's timing against musical patterns. The project plays WAV audio feedback and shows simple display screens for calibration, success and failure.
 
+## 🎥 Demo
+Watch the demo here: [Rhythm Ruler Demo](https://www.youtube.com/shorts/fOXzGWSuUTA)
+
+
 This repository contains the CircuitPython code used to:
 - play rhythmic patterns,
 - detect real shakes from an IMU (ICM20948 in the reference code),
